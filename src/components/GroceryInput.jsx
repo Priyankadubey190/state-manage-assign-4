@@ -1,7 +1,7 @@
 import { useState } from "react";
-
 export const GroceryInput = ({handleAdd}) => {
  const [text,setText] = useState("");
+ 
     return (
         <div>
             <input type="text" onChange={(e)=>{
@@ -13,6 +13,7 @@ export const GroceryInput = ({handleAdd}) => {
             }}>
             Add todo
             </button>
+            
         </div>
     );
 };

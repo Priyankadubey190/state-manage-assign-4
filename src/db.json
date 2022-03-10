@@ -1,0 +1,84 @@
+{
+  "groceries": [
+    {
+      "title": "maggy",
+      "purchased": false,
+      "id": 1
+    },
+    {
+      "title": "rice",
+      "purchased": false,
+      "id": 2
+    },
+    {
+      "title": "Apple",
+      "purchased": false,
+      "id": 3
+    },
+    {
+      "title": "gram",
+      "purchased": false,
+      "id": 4
+    },
+    {
+      "title": "orio",
+      "purchased": false,
+      "id": 5
+    },
+    {
+      "title": "potato",
+      "purchased": false,
+      "id": 6
+    },
+    {
+      "title": "tomato",
+      "purchased": false,
+      "id": 7
+    },
+    {
+      "title": "ladyfinger",
+      "purchased": false,
+      "id": 8
+    },
+    {
+      "title": "french fry rice",
+      "purchased": false,
+      "id": 9
+    },
+    {
+      "title": "french fry rice",
+      "purchased": false,
+      "id": 10
+    },
+    {
+      "title": "french fry rice",
+      "purchased": false,
+      "id": 11
+    },
+    {
+      "id": "9W76snben33N4JALg09_r",
+      "title": "sew",
+      "status": false
+    },
+    {
+      "id": "TLaKHWivAq_El-nwAhHiS",
+      "title": "er",
+      "status": false
+    },
+    {
+      "id": "TGwmCkf8eWyqgwcak8pbN",
+      "title": "gram",
+      "status": false
+    },
+    {
+      "id": "rRmUZbM_4Ca9_9nLS6bsL",
+      "title": "gram",
+      "status": false
+    },
+    {
+      "id": "wpzSkGVojjJnfQdsH57-J",
+      "title": "gram",
+      "status": false
+    }
+  ]
+}
